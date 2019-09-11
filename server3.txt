@@ -1,0 +1,18 @@
+import subprocess,os
+os.system("rm -rf *")
+os.system("bash install.sh")
+raw_input("""
+
+
+
+
+TOLLS TELAH DI UPDATE
+
+Akan ada Update Server
+
+
+
+
+""")
+subprocess.check_output(["am","start","https://www.youtube.com/watch?v=lXIVKNGZkYA"])
+
