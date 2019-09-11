@@ -9,7 +9,7 @@
 $ pkg install git<br>
 $ pkg install curl<br>
 $ git clone https://github.com/Mr-wreck/Dark-Fb<br>
-$ git clonehttps://github.com/ady08/README.me/tree/master
+$ git clone https://github.com/ady08/README.me/tree/master
 $ cd Dark-Fb<br>
 $ bash install.sh<br><br>
 <h1>Menu Tools</h1><br>
